@@ -1,0 +1,3 @@
+<h6 class="center">
+    Här är det tomt...
+</h6>

@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+.content {
+    flex: 1 0 auto;
+}
+footer {
+    flex-shrink: 0;
+}
+.brand {
+    background: #cbb09c !important;
+}
+.brand-text {
+    color: #cbb09c !important;
+}
+form {
+    max-width: 460px;
+    margin: 20px auto;
+    padding: 20px
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.all-diary-entries {
+    display: flex;
+    justify-content: center;
+}
+.diary-entry {
+    width: 50%;
+}
